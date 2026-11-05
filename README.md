@@ -1,6 +1,6 @@
 # Olá! Eu sou a Deuzenias Silva 👋
 
-🚀 **Desenvolvedora Fullstack** com foco em criar aplicações modernas, funcionais e escaláveis.
+🚀 **Desenvolvedor Fullstack** com foco em criar aplicações modernas, funcionais e escaláveis.
 
 ---
 
